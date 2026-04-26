@@ -1,10 +1,7 @@
+# ThinkPad E14 Gen 7 AMD Easy Effects Preset
 
-# Thinkpad P14s Gen 2 AMD Easy Effects preset
+This [Easy Effects](https://github.com/wwmm/easyeffects) preset improves the sound of the built-in speakers.
 
-This [Easy Effects](https://github.com/wwmm/easyeffects) preset tries to improve the sound of the built-in speakers.
+It is built on top of the excellent preset originally created by [@sebastian-de](https://github.com/sebastian-de). I added a bit more punch to the bass and slightly increased the treble to fit my own listening preferences.
 
-It was created by following the excellent guide [_Enhancing your internal notebook speakers without using an Equalizer_ by Markus Schmidt](https://wwmm.github.io/easyeffects/guides/guide_1.html).
-
-With some bass-heavy music this preset can lead to distortions. You'll have to reduce the _Amount_ of the _Bass Enhancer_ effect to avoid that.
-
-The preset approprate for Easy Effects prior to version 7.0 can be found in the `easyeffects6` branch.
+Feel free to fork it and adjust it to your liking.
